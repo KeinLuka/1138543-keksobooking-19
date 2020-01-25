@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дмитрий Ковалёв](https://up.htmlacademy.ru/javascript/19/user/1138543).
-* Наставник: `Неизвестно`.
+* Наставник: `Андрей Карякин`(https://htmlacademy.ru/profile/id133011).
 
 ---
 
